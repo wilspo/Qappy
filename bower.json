@@ -1,0 +1,24 @@
+{
+  "name": "Qappy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/wilspo/Qappy",
+  "authors": [
+    "wilspo <william.sporrong@gmail.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  }
+}
