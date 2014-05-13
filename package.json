@@ -1,0 +1,39 @@
+{
+  "name": "Qappy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.6.2",
+    "gulp-tsc": "^0.7.0"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.4.0",
+    "connect-modrewrite": "^0.7.4",
+    "declare": "0.0.3",
+    "express": "^4.1.2",
+    "gulp": "^3.6.2",
+    "gulp-concat": "^2.2.0",
+    "gulp-connect": "^2.0.5",
+    "gulp-debug": "^0.3.0",
+    "gulp-declare": "^0.2.0",
+    "gulp-define-module": "^0.1.1",
+    "gulp-handlebars": "^2.1.0",
+    "gulp-tsc": "^0.7.0",
+    "gulp-util": "^2.2.14",
+    "tiny-lr": "0.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilspo/Qappy.git"
+  },
+  "author": "William Sporrong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilspo/Qappy/issues"
+  },
+  "homepage": "https://github.com/wilspo/Qappy"
+}
